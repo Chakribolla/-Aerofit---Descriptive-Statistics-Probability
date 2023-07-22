@@ -1,4 +1,8 @@
-#Aerofit Business Case Study
+<p align="center"> 
+  <img src="https://www.investopedia.com/thmb/h4AO0SKvlw10q4DGLEg3373XCBg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Descriptive_statistics-5c8c9cf1d14d4900a0b2c55028c15452.png">
+
+##Aerofit Business Case Study
+
 Analysis of the Aerofit dataset using the concepts of Descriptive Statistics and Probability
 About Aerofit :
 Aerofit is a leading brand in the field of fitness equipment. Aerofit provides a product range including machines such as treadmills, exercise bikes, gym equipment, and fitness accessories to cater to the needs of all categories of people.
